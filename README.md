@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![image](https://raw.githubusercontent.com/nnamliehbes/nnamliehbes/master/images/header.png)
+
+I'm a almost graduated Psychology student who is passionate about open source, design
+and using data science to make the world a better place. I like to work on projects
+involving machine learning, nlp or any analyses involving human behavior.
+
 <!--
 **nnamliehbes/nnamliehbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
