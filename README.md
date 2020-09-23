@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/nnamliehbes/nnamliehbes/master/images/header_refreshed.png)
 
-I'm a almost graduated Psychology student who is passionate about open source (e.g. Linux and Mycroft), design
+I'm a former media desginer and almost graduated Psychology student who is passionate about open source (e.g. Linux and Mycroft), design
 and using data science to make the world a better place. I like to work on projects
 involving machine learning, nlp or any analyses involving human behavior.
 
