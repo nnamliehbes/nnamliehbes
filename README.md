@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![image](https://raw.githubusercontent.com/nnamliehbes/nnamliehbes/master/images/header.png)
 
 I'm a almost graduated Psychology student who is passionate about open source, design
