@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/nnamliehbes/nnamliehbes/master/images/header.png)
+![image](https://raw.githubusercontent.com/nnamliehbes/nnamliehbes/master/images/header_refreshed.png)
 
 I'm a almost graduated Psychology student who is passionate about open source, design
 and using data science to make the world a better place. I like to work on projects
